@@ -5,4 +5,5 @@
     <string name="todo">TODO</string>
     <string name="im_genes">Imágenes</string>
     <string name="v_deos">Vídeos</string>
+    <string name="audio">Audio</string>
 </resources>
