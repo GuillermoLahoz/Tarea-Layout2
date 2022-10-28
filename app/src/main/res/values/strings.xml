@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">LayoutApplication</string>
     <string name="almacenamiento_del_tel_fono">Almacenamiento del teléfono</string>
+    <string name="usado_71_2_gb_de_128_gb">Usado: 71,2 GB de 128 GB</string>
+    <string name="todo">TODO</string>
+    <string name="im_genes">Imágenes</string>
+    <string name="v_deos">Vídeos</string>
 </resources>
